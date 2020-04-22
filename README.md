@@ -109,7 +109,7 @@
 ## 运行界面
 
 ![login](https://github.com/dave0824/react-crud/blob/master/asset/img/form.png)
-![register](./asset\img\register.png)
-![main](./asset\img\main.png)
-![form](./asset\img\form.png)
-![other](./asset\img\other.png)
+![register](https://github.com/dave0824/react-crud/blob/master/asset/img/register.png)
+![main](https://github.com/dave0824/react-crud/blob/master/asset/img/main.png)
+![form](https://github.com/dave0824/react-crud/blob/master/asset/img/form.png)
+![other](https://github.com/dave0824/react-crud/blob/master/asset/img/other.png)
