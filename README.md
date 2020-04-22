@@ -108,8 +108,8 @@
 
 ## 运行界面
 
-![login](./asset\\img\\login.png)
-![register](./asset\\img\\register.png)
-![main](./asset\\img\\main.png)
-![form](./asset\\img\\form.png)
-![other](./asset\\img\\other.png)
+![login](./asset\images\login.png)
+![register](./asset\images\register.png)
+![main](./asset\images\main.png)
+![form](./asset\images\form.png)
+![other](./asset\images\other.png)
